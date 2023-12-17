@@ -1,23 +1,30 @@
 
 Network Interface Card configurations for pfSense machine
+
 **![](https://lh7-us.googleusercontent.com/oZp3I2I513_10qPs_aiEimVYPN1-FSDV6rI9FfVjrOYiIpFih32eGUHmAqTRsgKI8oAEcIH3E23mC0K5In_m5G0N_7ASzJNJS9gJFZlaAGitPNGzN3jg2hdPjVE1F4grenljeuZnAlKALe08DyS76vI)
 
 Virtual Network Editor configurations
+
 **![](https://lh7-us.googleusercontent.com/_C8jSk4csqeUYiDaeTNgTaqFGP_tCXpUT1D8ornTvqQ_dSabokV3UToCYQkno8BT95qF5Lh-pvXiL9E5I8ZvoTwz2Tn8OrtmxJMgilbWHhpRjLZqdNSXAsv9_q88RRidFIjPk7YPVH29DU6JtGXQhrc)
 
 Configured interfaces in pfSense firewall web GUI
+
 **![](https://lh7-us.googleusercontent.com/J_O-Z6IJMXnjJsJVG41pf697OWm0HQQIKmkWK4nkQXewe3xG0990j346Acq9VWnG0tpOLFwT0q-wJE04oBu8dpucQrsmkegBS9R7uIYhhXXAblbaWazMv5aiGv7P2pXr6ZyFLa_x7Eyt7V1Hr50Dfto)
 
 General setup configurations; hostname, domain, dns servers, timezone, theme
+
 **![](https://lh7-us.googleusercontent.com/njUbBDyF1MhCT4dXjrdi827sCOMpFIVTnkF2hx2o5TFkjHWo8GGaMd8GGddrJOfeDapvqr6DuvoyMaX6cwUL0NJ9tKu6pgm2WkqmhleuNpg0Ny6A7CSLwsJTmTeMXeNRxJNsQO82SyqlEOivAlCft8A)
 
 Advance settings: change HTTP to HTTPS(SSL/TLS)
+
 **![](https://lh7-us.googleusercontent.com/ZYjta6MbYlpJeJmd6PzOGL6TU6O-H0vkJXp297wlqkZ5PgKkuL-3P7DGKMYE2ok9nqq_D8rbJSrQfjdYQSve6OsPdngQ1X7SCLX6Ye0ze43iRoa4fTUxFxmSPpnJEcJBp0gD-UkLDcFRqauDykqpLmw)
 
 Enabled Secure Shell
+
 **![](https://lh7-us.googleusercontent.com/62wL3HN3z_WICSwkJEWaXXgEqA-kH2gvmm8yolDZgm79aPW-4Gh5lH9gwm3eyEmsjdVzDevRyLX24WqtMFIFbpNBgJENwy51Sn3BApEIvpkgTeoLM_Bq8AwnwPSDBZQt5YysgzfoxIJ-8cnBFM_Z2II)
 
 Firewall Rules Screenshots
+
 **![](https://lh7-us.googleusercontent.com/7N7URxsOTqP41rIgqi25-PcwJ1o_81ug31uA63y75tOBPwnjx9dB1XJBi_8JXnvL7wdFi-9L6GjJLKLgqghvDuqAxmfmrjh3yagR6Xxe1Ewxq2s0t6PZYYgR4RATwaa18CDLZciI9rUD6_KNc7fFb6w)
 
 ![](https://lh7-us.googleusercontent.com/CK4QHJWDJjsJa-jWyHvLdzvbASAVXY2edXTWPMP-vfuUi6QTKffo_3FM62iK9KptwP671vxIMODJmQznb58eRbKeegb3E9iTNXSexaCVPkyFMwkZOnfiB2vU4Q9vDYu-z-9ja3MsKV9omOU8GfX89Xs)
@@ -31,5 +38,6 @@ Firewall Rules Screenshots
 **![](https://lh7-us.googleusercontent.com/zQWzvqWUBl7WJGjhQI5fqUnHh14yXQmaVdRfUBiP-FBFZN36myEuU8tCdQp3T-jknKEUSRywJNztTCkpDF3zYwS6aZVDt0bwyAgBXDbecGJPQXRKNx7uNSPypWdtP02OtK8dI9MubB8rWL78YNOW3Tc)
 
 Outbound NAT rules for firewall
+
 **![](https://lh7-us.googleusercontent.com/1eEiDZoxVd7BLIkAs6PSlL4n7wo3o3BjBWGWMYPsJTRYImfCKBK-v16rWh_-4LJLg7c6MBdDdoJlJPA2nUr9BwSmGT3yWtaiiUrTXfMyuzTeUHbcaVCxkLvJpWdCN3lGaObv41ePxOsR_ogJv3zDCmg)
 
