@@ -15,14 +15,14 @@ In pursuit of a hands-on learning environment at home, I embarked on the creatio
 - Vmware Workstation Pro
 
 ## Hardware
-I am currently using an old MSI GS65 with the specs below: 
+I am currently using an old MSI laptop (GS65) with the specs below: 
 CPU: Intel® Core i7-9750H processor
 RAM: 16 GB DDR4
 GPU: NVIDIA GeForce GTX 1660Ti
 HDD: 512 GB SSD
 OS: Windows 11 (upgraded from Windows 10)
 
-I decided to use this laptop as I was not getting any other use out of it and for this environment it works amazing. 
+I decided to use this laptop as I was not getting any other use out of it and for this environment it works amazingly. 
 ## Network Topology
 **![](https://lh7-us.googleusercontent.com/dVesbeWt3TgIZADH2al7GdVNs7-GIxWo3EDyQLk5ro5nj8f7PNBOoMFTQnKIvX6u3q_84jWZBgSPBY-OuSYLKYD94uu84MejG-kJGqepwRdVo2t5y_IevlXtLnC_-qznK2ltMlM8aVcy2nj9cuYsfXQ)
 After VLAN segmentation and device separation by VLANs/subnets
